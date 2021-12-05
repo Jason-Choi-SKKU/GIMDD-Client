@@ -14,4 +14,5 @@ export default function loadViewer (data) {
 
         .graphData(data)
         .enableNavigationControls(true);
+    
 }

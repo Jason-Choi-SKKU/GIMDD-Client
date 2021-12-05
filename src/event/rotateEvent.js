@@ -1,5 +1,5 @@
 
-const correctionContant = 0.2;
+const correctionContant = -0.2;
 
 export function rotateInitialize() {
     document.querySelector("canvas").dispatchEvent(
